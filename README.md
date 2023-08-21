@@ -1,3 +1,3 @@
 # project_threejs_ai
 
-[Click to preview site](https://vercel.com/michaelheinzman/threejs-ai-shirt-static-site)     
+[Click to preview site](https://threejs-ai-shirt-static-site.vercel.app/)        
